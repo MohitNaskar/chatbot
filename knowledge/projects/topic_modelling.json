@@ -1,0 +1,12 @@
+{
+  "name": "Topic Modelling for Seller Engagement",
+  "category": "Machine Learning · NLP",
+  "status": "Completed (at SAP Labs India)",
+  "note": "Developed as part of Mohit's work at SAP Labs India. Some details are limited to what is publicly documented.",
+  "description": "Topic-modelling solution applied to SAP seller engagement data to extract structured insights from unstructured text.",
+  "approach": "Traditional ML topic modelling on SAP seller data.",
+  "outcome": "95% topic accuracy, enabling structured analysis of seller engagement patterns.",
+  "technologies": ["Python", "NLP", "Machine Learning", "Topic Modelling"],
+  "context": "Developed at SAP Labs India as AI/ML Developer Associate",
+  "portfolio_section": "#experience"
+}

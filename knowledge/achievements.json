@@ -1,0 +1,21 @@
+{
+  "note": "Based on publicly documented information from Mohit's portfolio.",
+  "professional_outcomes": [
+    "Achieved up to 93% accuracy on AI/ML solutions for supplier-related business challenges at SAP Labs India (2025)",
+    "Achieved 95% topic accuracy on seller engagement topic-modelling at SAP Labs India (2025)",
+    "Achieved 91% chatbot accuracy on new-joiner onboarding system at SAP Labs India (2024)",
+    "Achieved 98% data quality success rate during ML internship at iNeuron AI (2023)"
+  ],
+  "recommendations": [
+    {
+      "recommender": "Darren Savio Dsouza",
+      "title": "Senior Data Scientist, SAP Labs India",
+      "summary": "Takes strong ownership of complex problem statements; solid technical mindset; high level of professionalism; ability to balance experimentation with execution."
+    },
+    {
+      "recommender": "Gowthami Konakanchi",
+      "title": "Developer S/4 HANA, SAP Labs India",
+      "summary": "High level of professionalism; effective time management; completed all assigned tasks within deadlines."
+    }
+  ]
+}

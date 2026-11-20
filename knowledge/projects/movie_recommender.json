@@ -1,0 +1,13 @@
+{
+  "name": "Movie Recommendation System",
+  "category": "Machine Learning · NLP",
+  "status": "Completed",
+  "description": "Content-based and collaborative filtering recommendation system using NLP and Pearson Correlation to suggest movies based on user input and viewing patterns.",
+  "approach": "Combined content-based filtering (NLP on movie metadata) with collaborative filtering (Pearson Correlation on viewing patterns).",
+  "technologies": ["Python", "NLP", "Pearson Correlation", "Scikit-learn", "Pandas", "NumPy", "Streamlit"],
+  "links": {
+    "github": "https://github.com/MohitNaskar/movie_recommender",
+    "live_demo": "https://movierecommender-ge7zcwnknapdue4zxtqjrk.streamlit.app/"
+  },
+  "portfolio_section": "#work"
+}

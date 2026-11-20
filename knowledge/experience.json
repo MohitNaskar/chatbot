@@ -1,0 +1,50 @@
+[
+  {
+    "company": "SAP Labs India",
+    "role": "AI/ML Developer Associate",
+    "type": "Full-time",
+    "start_date": "May 2025",
+    "end_date": "Present",
+    "location": "Bengaluru, India",
+    "description": "Developing and delivering AI/ML solutions for enterprise business challenges, leveraging NLP, Generative AI and agentic AI to improve operational efficiency, analytical accuracy and decision-making across supplier-related workflows.",
+    "highlights": [
+      "Developed a topic-modelling solution for seller engagement using traditional ML on SAP data, achieving 95% topic accuracy.",
+      "Built AI/ML solutions encompassing traditional ML, Generative AI and agentic AI approaches, achieving up to 93% accuracy.",
+      "Collaborated on client-facing AI initiatives involving Sree Cement, Tech Mahindra and KPMG.",
+      "Delivered ARIBA engagement optimisation based on product visit patterns.",
+      "Analysed large-scale datasets to identify patterns and support data-informed business decisions."
+    ],
+    "technologies": ["Python", "NLP", "Generative AI", "Agentic AI", "SAP", "Machine Learning"]
+  },
+  {
+    "company": "SAP Labs India",
+    "role": "AI Developer",
+    "type": "Full-time",
+    "start_date": "Aug 2024",
+    "end_date": "May 2025",
+    "location": "Bengaluru, India",
+    "description": "Built AI-powered internal tools and automated business scenarios using SAP's Joule AI platform.",
+    "highlights": [
+      "Automated business scenarios using SAP Joule AI, extending workflows with navigational and transactional capabilities.",
+      "Built a Keras-based chatbot for new-joiner onboarding achieving 91% accuracy at 0.05 learning rate.",
+      "Implemented AI capabilities across SAP business modules.",
+      "Participated in code reviews and team-based development workflows."
+    ],
+    "technologies": ["Python", "Keras", "SAP Joule", "NLP", "AI"]
+  },
+  {
+    "company": "iNeuron AI",
+    "role": "ML Developer Intern",
+    "type": "Internship",
+    "start_date": "Jun 2023",
+    "end_date": "Jul 2023",
+    "location": "Remote",
+    "description": "Hands-on ML internship focused on data preparation, predictive modelling and computer vision.",
+    "highlights": [
+      "Handled missing data with imputation techniques, achieving 98% data quality.",
+      "Applied regression and classification algorithms for customer POC projects.",
+      "Implemented CNN-based image classification."
+    ],
+    "technologies": ["Python", "Machine Learning", "CNNs", "Data Analysis"]
+  }
+]

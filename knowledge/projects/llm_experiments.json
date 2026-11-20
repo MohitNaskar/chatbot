@@ -1,0 +1,55 @@
+{
+  "name": "LLM Experiments and Learning Projects",
+  "category": "Deep Learning · LLM Engineering",
+  "status": "Ongoing",
+  "description": "A series of hands-on experiments and implementations in deep learning and LLM engineering, documented as Engineering Notes on Mohit's portfolio.",
+  "projects": [
+    {
+      "name": "GPT-1.5B from Scratch",
+      "description": "Implementation and training of a GPT-2 XL-scale language model (1.5 billion parameters) from scratch.",
+      "highlights": [
+        "Architecture decisions for a 1.5B parameter transformer",
+        "Tokenisation implementation",
+        "Gradient checkpointing for memory efficiency",
+        "Understanding scaling behaviour at 1.5B parameters vs smaller models"
+      ],
+      "technologies": ["Python", "PyTorch", "Deep Learning"],
+      "github": "https://github.com/MohitNaskar/GPT1.5BIL",
+      "date": "Nov 2026"
+    },
+    {
+      "name": "Real-Time Voice Assistant with LiveKit",
+      "description": "LiveKit WebRTC transport wired with speech-to-text, LLM inference and text-to-speech into a low-latency voice assistant.",
+      "highlights": [
+        "LiveKit WebRTC transport",
+        "STT → LLM → TTS pipeline",
+        "Latency budget optimisation",
+        "Turn detection"
+      ],
+      "technologies": ["Python", "LiveKit", "WebRTC", "LLMs", "STT", "TTS"],
+      "github": "https://github.com/MohitNaskar/VoiceAssistant",
+      "date": "Nov 2026"
+    },
+    {
+      "name": "LangChain Fundamentals",
+      "description": "Practical exploration of LangChain's abstractions — chains, retrievers, memory and output parsers.",
+      "technologies": ["Python", "LangChain", "LLMs"],
+      "github": "https://github.com/MohitNaskar/LangchainFundamentals",
+      "date": "Nov 2026"
+    },
+    {
+      "name": "LangGraph Agent Workflows",
+      "description": "Multi-step agentic systems with LangGraph where state persists across nodes — graph construction, conditional edges and human-in-the-loop checkpoints.",
+      "technologies": ["Python", "LangGraph", "Agentic AI"],
+      "github": "https://github.com/MohitNaskar/LangGraph_Fundamentals",
+      "date": "Nov 2026"
+    },
+    {
+      "name": "Transformer Implementation (NanoGPT 10M)",
+      "description": "Transformer architecture implemented from scratch in PyTorch — attention mechanisms, positional encodings and training dynamics.",
+      "technologies": ["Python", "PyTorch", "Transformers"],
+      "github": "https://github.com/MohitNaskar/NANOGPT10M",
+      "date": "Nov 2026"
+    }
+  ]
+}

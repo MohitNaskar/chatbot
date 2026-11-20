@@ -1,0 +1,22 @@
+{
+  "name": "Mohit Naskar",
+  "role": "AI/ML Engineer",
+  "current_company": "SAP Labs India",
+  "location": "Bengaluru, India",
+  "summary": "AI/ML engineer at SAP Labs India building intelligent systems across machine learning, LLM applications, retrieval systems and AI engineering. Works with traditional ML, Generative AI and agentic AI to solve enterprise business problems.",
+  "technical_interests": [
+    "Large Language Models (LLMs)",
+    "Agentic AI systems",
+    "Retrieval-Augmented Generation (RAG)",
+    "Deep learning and transformer architectures",
+    "NLP and text understanding",
+    "Voice AI and real-time systems",
+    "AI application engineering"
+  ],
+  "public_links": {
+    "portfolio": "https://mohitnaskar.vercel.app/",
+    "github": "https://github.com/MohitNaskar",
+    "linkedin": "https://www.linkedin.com/in/mohit-naskar-a595201a6/",
+    "resume": "https://drive.google.com/file/d/1mW6hDFfBNT2w-UBxnvdv9bN3mDIqS26E/view?usp=sharing"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "name": "Email Spam Classifier",
+      "category": "Machine Learning · NLP",
+      "status": "Completed",
+      "description": "Multi-model spam classification using Logistic Regression and Naive Bayes with a Streamlit interface for real-time classification.",
+      "technologies": ["Python", "Logistic Regression", "Naive Bayes", "Scikit-learn", "Streamlit"],
+      "links": {
+        "github": "https://github.com/MohitNaskar/Spam-Classifier-",
+        "live_demo": "https://spamclassifer.streamlit.app/"
+      },
+      "portfolio_section": "#work"
+    },
+    {
+      "name": "Banking System",
+      "category": "Backend Engineering",
+      "status": "Completed",
+      "description": "Python and SQL-based banking system supporting account creation, deposits, withdrawals and transaction history. Demonstrates backend data modelling, state management and relational database design.",
+      "technologies": ["Python", "SQL", "Data Modelling"],
+      "links": {
+        "github": "https://github.com/MohitNaskar/Banking-System-"
+      },
+      "portfolio_section": "#work"
+    },
+    {
+      "name": "SAP Joule Onboarding Chatbot",
+      "category": "Applied AI",
+      "status": "Completed (at SAP Labs India)",
+      "note": "Internal project at SAP Labs India. Limited details publicly available.",
+      "description": "Keras-based chatbot for new-joiner onboarding at SAP Labs India, assisting with SAP-related queries.",
+      "outcome": "91% model accuracy at 0.05 learning rate",
+      "technologies": ["Python", "Keras", "NLP", "SAP Joule"],
+      "context": "Developed at SAP Labs India as AI Developer"
+    }
+  ]
+}

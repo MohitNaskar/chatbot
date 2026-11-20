@@ -1,0 +1,11 @@
+{
+  "programming": ["Python", "SQL"],
+  "data_analysis": ["Pandas", "NumPy", "Statistics", "EDA", "Data Analysis"],
+  "machine_learning": ["Scikit-learn", "XGBoost", "Feature Engineering", "Model Evaluation", "Classification", "Regression"],
+  "deep_learning": ["PyTorch", "Keras", "Neural Networks", "CNNs", "Transformers", "Hugging Face"],
+  "nlp": ["Text Processing", "Topic Modelling", "Tokenisation", "NER"],
+  "generative_ai": ["Prompt Engineering", "Fine-tuning", "LLM Evaluation", "RAG"],
+  "llm_engineering": ["LangChain", "LangGraph", "Tool Calling", "Agentic AI", "MCP", "Vector DB"],
+  "infrastructure": ["FastAPI", "Streamlit", "Git", "Docker", "REST APIs", "LiveKit"],
+  "currently_exploring": ["RAG systems", "Agentic AI workflows", "LLM evaluation", "Voice AI"]
+}
